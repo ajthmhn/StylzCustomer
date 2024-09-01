@@ -1,0 +1,328 @@
+/*
+  Localizable.strings
+  StylezUser
+
+  Created by Ajith Mohan on 22/08/23.
+  
+*/
+ 
+"enter_email" = "يرجى ادخال البريد الالكتروني";
+"enter_passwrd" = "يرجى ادخال الرقم السري";
+"enter_phone" = "يرجى ادخال رقم الهاتف";
+"no_data" = "لم يتم العثور على البيانات";
+"select_service" = "يرجى اختيار الخدمة";
+"select_employee" = "يرجى اختيار الموظف";
+"service_added" = "تمت اضافة الخدمة الى السلة";
+"place_order" = "متابعة عملية الشراء";
+"checkout" = "استمر الى الدفع";
+"go_to_location" = "اذهب الى الموقع";
+"cancel_appopint" = "هل تريد الغاء الموعد ؟";
+"yes" = "نعم";
+"no" = "لا";
+"profile_updated" = "تم تحديث ملف تعريف العميل بنجاح";
+"ok" = "نعم";
+"use_camera" = "استخدم الكاميرا";
+"use_gallery" = "استخدام الصور";
+"cancel" = "الغاء";
+"delete_address" = "هل ترغب بحذف العنوان?";
+"delete_card" = "هل ترغب بحذف البطاقة؟";
+"home" = "الرئيسية";
+"appointment" = "مواعيدي";
+"profile" = "الملف الشخصي";
+"cart" = "السلة";
+"top_saloons" = "افضل 10 صالونات";
+"show_all" = "اظهر الكل";
+"all_barber" = "جميع الصالونات";
+"re_order" = "اعادة الطلب";
+"my_salons" = "صالوني";
+"book_category" = "الفئات";
+"book_stylist" = "الحلاقين";
+"search_hair" = "ابحث عن صالون , حلاق او خدمة الخ ...";
+"select_category" = "اختر الفئة";
+"stylist" = "الحلاقين";
+"search" = "البحث";
+"services" = "الخدمات";
+"special_offer" = "العروض الخاصة";
+"employee" = "الموظفين";
+"rate" = "السعر";
+"duration" = "المدة";
+"book_now" = "احجز الان";
+"add_basket" = "اضف الى السلة";
+"basket" = "السلة";
+"sub_total" = "المجموع الكلي";
+"order_total" = "مجموع الطلبات";
+"select_date" = "اختر التاريخ و الوقت";
+"available_time" = "الاوقات المتاحة ";
+"payment" = "الدفع";
+"discount" = "الخصم";
+"enter_promo" = "ادخل الرمز الترويجي";
+"apply" = "طبق";
+"select_card" = "اختر بطاقة الائتمان";
+"use_new_card" = "استخدم بطاقة جديدة";
+"upcoming_appoint" = "المواعيد القادمة";
+"appoint_details" = "تفاصيل الموعد";
+"date" = "التاريخ";
+"time" = "الوقت";
+"rescedule" = "إعادة جدولة";
+"rescedule_appoint" = "اعادة جدولة الموعد";
+"client" = "عميل";
+"my_account" = "حسابي";
+"settings" = "الاعدادات";
+"profile" = "الملف الشخصي";
+"wallet" = "المحفظة";
+"address" = "العناوين";
+"order_history" = "تاريخ الطلبات";
+"notifications" = "الاشعارات";
+"gender" = "الجنس";
+"language" = "اللغة";
+"sign_in" = "تسجيل الدخول";
+"sign_out" = "تسجيل الخروج";
+"female" = "انثى";
+ "male" = "ذكر";
+"update_profile" = "تحديث الملف الشخصي";
+"nationality" = "الجنسية";
+"age" = "العمر";
+"occupation" = "العمل (اختياري)";
+"wallet" = "المحفظة";
+"add_address" = "اضف العنوان";
+"search_address" = "ابحث عن العنوان";
+"update_address" = "حدث العنوان";
+"nick_name" = "اللقب";
+"history" = "التاريخ";
+ "active" = "فعال";
+"cancelled" = "ملغي";
+"attanded" = "تم الحضور";
+"resceduled" = "تمت اعادة الجدولة";
+"active" = "فعال";
+"enter_phone" = "ادخل رقم الهاتف";
+"update_phone" = "حدث رقم الهاتف";
+"enter_email" = "ادخل البريد الالكتروني";
+"update_email" = "حدث البريد الاكتروني";
+"update" = "حفظ التغييرات";
+"login" = "تسجيل الدخول";
+"email" = "البريد الالكتروني";
+"password" = "الرقم السري";
+"retrive_passwrd" = "استرجع كلمة المرور";
+"create_account" = "انشئ حساب ";
+"quick_login" = "تسجيل دخول سريع";
+"phone" = "رقم الهاتف";
+"email_login" = "تسجيل الدخول بالبريد الالكتروني";
+"full_name" = "الاسم الكامل";
+"agree_terms" = "اوافق على سياسة الخصوصية";
+"create_account" = "انشئ حساب ";
+"otp_verification" = "التحقق من انه انت";
+"check_phone" = "يرجى التحقق من هاتفك لقد ارسلنا رمز التحقق لمرة واحدة";
+"check_email" = "يرجى التحقق من البريد الالكتروني لقد ارسلنا رمز التحقق لمرة واحدة";
+"continue" = "استمر";
+"didnt_receive" = "لم تتلقى ؟";
+"resend" = "اعادة ارسال الرمز";
+"appointment_resceduled" = "تم اعادة جدولة الموعد بنجاح !";
+"for_booking"  = "شكرا لاختيارك Stylz لتلبية احتياجات موعدك. نحن واثقون من أنك ستكون سعيدا بخدماتنا";
+"thank_you" = "شكرا لك !";
+"back_service" = "العودة الى الخدمات";
+"selct_gender" = "اختر الجنس";
+"select_language" = "اختر اللغة";
+"pin_location" = "يرجى اختيار موقع التوصيل على الخريطة";
+"enter_nick" = "أدخل كنية";
+"enter_phone" = "ادخل رقم الهاتف";
+"enter_email" = "ادخل البريد الالكتروني";
+"code_copy" = "تم نسخ الرمز";
+"enter_name" = "ادخل الاسم";
+"enter_email" = "ادخل البريد الالكتروني";
+"enter_phone" = "ادخل رقم الهاتف";
+"enter_coutry" = "ادخل البلدة";
+"enter_password" = "ادخل الرقم السري";
+"enter_valid" = "ادخل بريد الكتروني صالح";
+"accept_privacy" = "يرجى قبول سياسة الخصوصية";
+"address_added" = "تمت اضافة العنوان";
+"success" = "نجاح";
+"valid_otp" = "ادخل رمز تحقق صالح";
+"enter_otp" = "أدخل كلمة المرور";
+
+"enter_pass" = "ادخل الرمز السري";
+"retype_pass" = "الرجاء إعادة كتابة كلمة المرور الخاصة بك";
+
+"password_missmatch" = "الرقم السري غير مطابق";
+"password_updated" = "تم تحديث الرقم السري";
+"forgot_pass" = "نسيت الرقم السري";
+"submit" = "ادفع";
+"update_pass" = "تم تحديث الرقم السري";
+"confirm_password" = "اكد الرقم السرير";
+"crnt_location" = "الموقع الحالي";
+"select_location" = "اختر الموقع";
+"add_new" = "اضف جديد";
+"enable_location" = "فعل الموقع";
+"schedules" = "مواعيدي";
+"summary" = "ملخص";
+"submit_appointment" = "قدم موعدي";
+"done" = "منتهي";
+"delete_item" = "هل تريد حذف العنصر؟";
+"select_options" = "حدد الخيار";
+"book_appoint" = "احجز وادفع لاحقا";
+
+
+
+
+"paid" = "مدفوع";
+"un_paid" = "غير مدفوع";
+"no_branches" = "لم يتم العثور على الفروع";
+"select_gender" = "يرجى تحديد الجنس";
+"rescedule_appopint" = "هل تريد اعادة جدولة الموعد";
+"old_password" = "كلمة المرور الحالية";
+"new_password" = "الرقم السري الجديد";
+"enter_current" = "يرجى ادخال الرقم السري الحالي ";
+"change_password" = "تغيير الرقم السري";
+"removed_mySalons" = "تمت الازالة من صالوناتي ";
+"add_mySallons" = "تمت الاضافة الى صالوناتي ";
+"no_time" = "لا توجد فترة رمنية متاحة , يرجى اختيار فترة زمنية اخرى";
+"policy" = "سياسة الخصوصية";
+"close" = "اغلق";
+"no_cart" = "السلة الخاصة بك فارغة !";
+"login_continue" = "يرجى تسجيل الدخول لوضع علامة على المفضلة";
+"pay_apple" = "  دفع";
+"pay_card" = "  بطاقة الائتمان";
+"seelct_payment" = "اختر طريقة الدفع";
+"vat" = "ضريبة القيمة المضافة 15%";
+"no_appoint" = "لا توجد لديك مواعيد";
+"choose_date" = "اختر الوقت و التاريخ";
+
+"sar" = "ريال";
+
+"name" = "الإسم";
+"appointment_cancel" = "تم الغاء الموعد بنجاح";
+"cart_contains" = "السلة تحتوي على حجز خدمات من صالون آخر";
+"do_continue" = "هل تريد الغاء طلب الحجز والمتابعة ؟";
+"one" = "ادفع";
+"two" = "احجز";
+
+
+
+
+
+
+/*subscription*/
+"Free for 7 days, then 49.99 SAR/month.\nCancel Aanytime" = "مجانًا لمدة 7 أيام، ثم 49.99 ريال سعودي/الشهر.\n
+إلغاء في أي وقت";
+"Get Premium" = "إحصل على الأفضل";
+"Then 49.99 SAR/month. Cancel anytime." = "ثم 49.99 ريال سعودي/الشهر. قم بالإلغاء في أي وقت.";
+"Get Premium Plan" = "احصل على الخطة المميزة";
+"Get 7 days for free" = "احصل على 7 أيام مجانا";
+"Subscription" = "الاشتراك";
+"Upgrade to Premium" = "الترقية إلى المميزة";
+"Subscription History" = "سجل الاشتراك";
+"Cancel" = "إلغاء قسط";
+"View Plan" = "عرض ميزات الخطة";
+"Stylz Premium" = "ستايلز بريميوم";
+"Premium Plan" = "الخطة المميزة";
+"Monthly" = "شهريا";
+"your subscription will automaticlly renew on" = "سيتم تجديد اشتراكك تلقائيًا في";
+
+"My Plan" = "خطتي";
+"Subscription" = "الاشتراك";
+"Order ID:" = "رقم التعريف الخاص بالطلب:";
+"Back to homepage" = "رقم التعريف الخاص بالطلب:";
+"Reactivate my premium plan" = "إعادة تنشيط خطتي المميزة";
+
+
+
+
+
+"We are sorry to see you go :(" = "نأسف لمغادرتك :(";
+"Your current subscription will remain active until Mars 12, 2024. We'll automatically downgrade you to free account after that date, but you'll always be able to access your account.\n\nif you need to reactivate your subscription, you can click below" = "سيظل اشتراكك الحالي نشطًا حتى 12 مارس 2024. سنقوم تلقائيًا بإرجاعك إلى حساب مجاني بعد ذلك التاريخ، ولكن ستتمكن دائمًا من الوصول إلى حسابك.\n\nإذا كنت بحاجة إلى إعادة تنشيط اشتراكك، فيمكنك يمكن النقر أدناه";
+"Are you sure" = "هل أنت متأكد";
+"if you cancel the subscription, you will lose access to the premium features." = "إذا قمت بإلغاء الاشتراك، فسوف تفقد إمكانية الوصول إلى الميزات المميزة.";
+"Yes" = "نعم";
+"Stay Subscribed" = "ابق مشتركا";
+"You’re all set" =  "أنت جاهز تمامًا";
+"Your purchase was successful." = "لقد كانت عملية الشراء الخاصة بك ناجحة.";
+
+/* error */
+
+"Something went wrong try again..." = "حدث خطأ ما حاول مرة أخرى...";
+
+"No location found. Please select any location first" = "لم يتم العثور على موقع. الرجاء تحديد أي موقع أولاً";
+
+"network Error" = "خطأ في الشبكة";
+"Please enter a valid number" = "من فضلك أدخل رقما صالحا";
+"Verify your email address" = "تحقق من عنوان بريدك الإلكتروني";
+
+
+"Are you sure you want to signout?" = "هل أنت متأكد أنك تريد الخروج؟";
+"Are you sure you want to logout?" = "هل أنت متأكد أنك تريد تسجيل الخروج؟";
+"Image updated" = "تم تحديث الصورة";
+"Verified" = "تم التحقق";
+"Unverified" = "لم يتم التحقق منها";
+"Please choose location" = "الرجاء اختيار الموقع";
+"Please enter promo code" = "الرجاء إدخال الرمز الترويجي";
+
+"Upload" = "رفع";
+
+"Update your email" = "قم بتحديث بريدك الإلكتروني";
+"Update your mobile number" = "قم بتحديث رقم هاتفك المحمول";
+"We will send a code to your new mobile number to verify your account" = "سنرسل رمزًا إلى رقم هاتفك المحمول الجديد للتحقق من حسابك";
+
+"We will send a code to your new email to verify your account" = "سنرسل رمزًا إلى بريدك الإلكتروني الجديد للتحقق من حسابك";
+
+"Email" = "بريد إلكتروني";
+"Phone" = "هاتف";
+
+"Salons" = "صالونات";
+"Employee" = "موظف";
+"Service" = "خدمة";
+
+
+"book_15" = "احجز وادفع الآن مع";
+"discount" = "تخفيض";
+
+
+"Describe your experience (Optional)" = "وصف تجربتك (اختياري)";
+"How was" = "كيف كان";
+"Feedback Submitted" = "تم إرسال التعليقات";
+"Thank you" = "شكرًا لك";
+"Submit your review Now" = "أرسل رأيك الآن";
+"Let us know about your last experience with" = "أخبرنا عن تجربتك الأخيرة مع";
+"Barbershop and his staff" = "صالون الحلاقة وموظفيه";
+"Rate" = "معدل";
+"staff" = "طاقم عمل";
+"Rate each" = "قيم كل منهما";
+"staff’s behavior" = "سلوك الموظفين";
+
+"Password must be at least 8 characters long" = "يجب أن تتكون كلمة المرور من 8 أحرف على الأقل";
+"Please select a time" = "الرجاء تحديد الوقت";
+
+"Enter the email address or phone number with your account and we'll send an email with confirmation to rest your password" = "أدخل عنوان البريد الإلكتروني أو رقم الهاتف في حسابك وسنرسل إليك بريدًا إلكترونيًا يتضمن تأكيدًا لحفظ كلمة المرور الخاصة بك";
+
+
+"Continue" = "يكمل";
+"Not now" = "ليس الآن";
+"Submit" = "يُقدِّم";
+"Your feedback will help us to improve\nservice quality" = "ستساعدنا تعليقاتك على تحسين\nجودة الخدمة";
+"this will help us to improve service quality" = "وهذا سوف يساعدنا على تحسين جودة الخدمة";
+
+
+
+
+"confirm" = "يتأكد";
+"cancel" = "يلغي";
+"YouSure" = "هل أنت متأكد؟";
+"WantToDelete" = "هل أنت متأكد أنك تريد حذف الحساب؟";
+"DeletedMsg" = "تم حذف الحساب بنجاح";
+"DeleteAccount" = "حذف الحساب";
+"DeleteAccount2" = "حذف الحساب؟";
+
+
+
+
+
+"promoAplied" = "تم تطبيق الرمز الترويجي بالفعل";
+
+
+"Coupon Code" = "رمز الكوبون";
+
+"Share Location" = "مشاركة الموقع";
+ "Enable your current location" = "تمكين موقعك الحالي";
+"Please activate location sharing in your device settings. This will allow the app to fetch your location to show nearby services." = "يرجى تفعيل مشاركة الموقع في إعدادات جهازك. سيسمح هذا للتطبيق بجلب موقعك لعرض الخدمات القريبة.";
+"Go to settings" = "اذهب للاعدادات";
+
+
+"PhoneIsRequired" = "الرجاء إدخال رقم هاتفك.\nلإبقائك على علم بمواعيدك، نطلب رقم هاتفك.";
